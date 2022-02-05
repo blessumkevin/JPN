@@ -272,6 +272,7 @@
     </fields>
     <fields>
         <fullName>OwnerId</fullName>
+        <description>Adding Description</description>
         <trackFeedHistory>true</trackFeedHistory>
         <type>Lookup</type>
     </fields>
