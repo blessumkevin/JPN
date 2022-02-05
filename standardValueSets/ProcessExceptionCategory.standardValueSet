@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>注文の有効化</fullName>
+        <default>true</default>
+        <label>注文の有効化</label>
+    </standardValue>
+    <standardValue>
+        <fullName>注文の承認</fullName>
+        <default>false</default>
+        <label>注文の承認</label>
+    </standardValue>
+    <standardValue>
+        <fullName>履行</fullName>
+        <default>false</default>
+        <label>履行</label>
+    </standardValue>
+    <standardValue>
+        <fullName>支払い</fullName>
+        <default>false</default>
+        <label>支払い</label>
+    </standardValue>
+    <standardValue>
+        <fullName>請求書</fullName>
+        <default>false</default>
+        <label>請求書</label>
+    </standardValue>
+</StandardValueSet>

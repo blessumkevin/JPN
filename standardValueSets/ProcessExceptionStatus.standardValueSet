@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>新規</fullName>
+        <default>true</default>
+        <label>新規</label>
+    </standardValue>
+    <standardValue>
+        <fullName>トリアージ済み</fullName>
+        <default>false</default>
+        <label>トリアージ済み</label>
+    </standardValue>
+    <standardValue>
+        <fullName>一時停止</fullName>
+        <default>false</default>
+        <label>一時停止</label>
+    </standardValue>
+    <standardValue>
+        <fullName>無視</fullName>
+        <default>false</default>
+        <label>無視</label>
+    </standardValue>
+    <standardValue>
+        <fullName>解決済み</fullName>
+        <default>false</default>
+        <label>解決済み</label>
+    </standardValue>
+    <standardValue>
+        <fullName>取り消し済み</fullName>
+        <default>false</default>
+        <label>取り消し済み</label>
+    </standardValue>
+</StandardValueSet>

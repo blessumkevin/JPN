@@ -1,0 +1,1 @@
+{!Contact.LastName}様     お問い合わせの件に関してご回答申し上げます。     お問い合わせ内容   {!Case.Description}     回答   {!Case.Solution_Description}      よろしくお願いいたします。      {!Organization.Name}   {!User.Name}      {!Case.Solution_Attachments}

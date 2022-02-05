@@ -1,0 +1,1 @@
+ケース番号:{!Case.CaseNumber}: {!Case.Subject} が更新されました。リンクをクリックして、セルフサービスポータルにてこのケースを参照してください。<insert the link to your Self-Service portal login page here>  {!Organization.Name} カスタマーサポート

@@ -1,0 +1,1 @@
+{!Case.SuppliedName}様     Web サイトよりお問い合わせいただき、ありがとうございます。ケース番号{!Case.CaseNumber}: "{!Case.Subject}" にて承りました。弊社サポートよりご回答申し上げますので、しばらくお待ちください。よろしくお願いいたします。     {!Organization.Name}
