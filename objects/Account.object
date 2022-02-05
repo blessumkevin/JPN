@@ -269,6 +269,7 @@
     </fields>
     <fields>
         <fullName>NumberOfEmployees</fullName>
+        <inlineHelpText>Help</inlineHelpText>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
