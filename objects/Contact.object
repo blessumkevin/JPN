@@ -422,6 +422,7 @@
     </fields>
     <fields>
         <fullName>Phone</fullName>
+        <inlineHelpText>Use this</inlineHelpText>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
