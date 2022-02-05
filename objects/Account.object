@@ -255,6 +255,7 @@
     </fields>
     <fields>
         <fullName>Industry</fullName>
+        <inlineHelpText>here</inlineHelpText>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
     </fields>
