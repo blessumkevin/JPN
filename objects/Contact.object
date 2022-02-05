@@ -432,6 +432,7 @@
     </fields>
     <fields>
         <fullName>Title</fullName>
+        <description>Desc</description>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <listViews>
